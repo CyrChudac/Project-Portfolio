@@ -15,6 +15,10 @@ Undermaze is a 2D platformer game focusing on stealth and lights. It was my solo
 ### Game of Runes
 As a team, we created a single player puzzle card game with focus on element combination. I mostly focused on the gameplay and mechanics.
 - https://mianencz.itch.io/game-of-runes
+### Robin Hood: The Legend of Sherwood scripting baseline
+A lot of modding tools were created in 2024 for this old game. Within one of them possibility of custom scripts (in lua) was introduced. The original game scripts had to be recreated so that potential modders can use them as a code baseline. I made most of them.
+- https://discord.gg/jyvdbfeBv5 (the repository is not public because of rights)
+- https://rhmods.com/tools/spellforge-editor/
 ### Battlegrounds community games
 Within this project a software for streamers was created to track who in their audience is playing in their community games also including a signup system through the twitch chat. It is my solo project.
 - https://github.com/CyrChudac/TwitchCommunityGames
